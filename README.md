@@ -1,6 +1,6 @@
 # Sorting Algorithms 
-Leonardo Gabriel Ferreira Rodrigues
-leonardogfrodrigues@ufv.br
+Leonardo G. F. Rodrigues
+leonardo.g.rodrigues@ufv.br
 
 Algorithms implemented in C language:
 
